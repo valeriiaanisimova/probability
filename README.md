@@ -1,4 +1,4 @@
-<p align="center">ShadowPad 🌘</p>
+**<p align="center">Probability 🎲</p>**
 <hr>
 
-ShadowPad is a sleek, minimalist, and highly functional notepad web application designed for distraction-free note-taking. Built with Next.js, Tailwind CSS, and shadcn/ui, it offers a seamless user experience with a focus on dark mode aesthetics and essential features.
+Explore an interactive simulation that visualizes how different life scenarios might unfold based on your personal choices and habits. By adjusting parameters like occupation, income, health habits, and stress levels, you can estimate the probabilities of achieving goals such as financial success, health, and happiness by 2040. The application employs Monte Carlo simulations to model various outcomes and present a range of potential life paths.
