@@ -1,2 +1,3 @@
-                                                                                               # Probability
-Explore an interactive simulation that visualizes how different life scenarios might unfold based on your personal choices and habits. By adjusting parameters like occupation, income, health habits, and stress levels, you can estimate the probabilities of achieving goals such as financial success, health, and happiness by 2040. The application employs Monte Carlo simulations to model various outcomes and present a range of potential life paths.
+<center>**Probability Project 🎲**</center>
+
+Probability Project is an interactive web application that simulates life scenarios based on personal choices and habits. Users can adjust parameters like occupation, income, health habits, and stress levels to explore potential outcomes in areas such as financial success, health, and overall happiness. The app uses Monte Carlo simulations to visualize probabilities and present multiple possible life paths.
